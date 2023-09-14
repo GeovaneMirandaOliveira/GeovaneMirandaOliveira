@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Geovane Miranda Oliveira😁
+## Bem-vindo(a) ao Perfil de  Geovane Miranda Oliveira😁
 
  <div>
    <a href="https://github.com/GeovaneMirandaOliveira">
