@@ -38,7 +38,7 @@ Apaixonado por criar soluções simples e eficientes. 🚀
 ### 📈 Minhas contribuições no GitHub
 <div align="center">
   <!-- Contributions Calendar -->
-  ![GitHub Contributions](https://ghchart.rshah.org/GeovaneMirandaOliveira)
+  ![Contribuições do GitHub](https://ghchart.rshah.org/GeovaneMirandaOliveira)
 
   <!-- Streak Stats -->
   <br><br>
