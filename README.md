@@ -1,8 +1,4 @@
-## 👋 Olá! Bem-vindo(a) ao meu perfil — Geovane Miranda Oliveira
-
-### 💻 Sobre mim
-Sou entusiasta de **desenvolvimento web**, aprendendo e aprimorando minhas habilidades em **JavaScript, HTML e CSS**.  
-Apaixonado por criar soluções simples e eficientes. 🚀  
+## Bem-vindo(a) ao Perfil de Geovane Miranda Oliveira 😁
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -12,15 +8,18 @@ Apaixonado por criar soluções simples e eficientes. 🚀
   </a>
 </div>
 
-### 🛠️ Tecnologias & Skills
 <div align="center">
+  <!-- Skills -->
+  <br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### 📫 Me encontre por aí
+<br>
+
 <div align="center">
+  <!-- Socials -->
   <a href="https://www.instagram.com/geovane.oliveira212/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -35,12 +34,11 @@ Apaixonado por criar soluções simples e eficientes. 🚀
   </a> 
 </div>
 
-### 📈 Minhas contribuições no GitHub
-<div align="center">
-  <!-- Contributions Calendar -->
-  ![Contribuições do GitHub](https://ghchart.rshah.org/GeovaneMirandaOliveira)
+<br>
 
-  <!-- Streak Stats -->
+<div align="center">
+  <!-- GitHub contributions -->
+  ![GitHub Contributions](https://ghchart.rshah.org/GeovaneMirandaOliveira)
   <br><br>
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeovaneMirandaOliveira&theme=tokyonight)
 </div>
