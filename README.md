@@ -38,7 +38,7 @@ Sou entusiasta de desenvolvimento web, aprendendo e aprimorando minhas habilidad
 
 <br>
 
-### 🐍 Contribuições no GitHub
 <div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/GeovaneMirandaOliveira/GeovaneMirandaOliveira/main/output/github-contribution-grid-snake.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=GeovaneMirandaOliveira&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeovaneMirandaOliveira&theme=tokyonight" height="180em"/>
 </div>
