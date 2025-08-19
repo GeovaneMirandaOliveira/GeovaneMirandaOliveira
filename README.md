@@ -14,12 +14,10 @@ Apaixonado por criar soluções simples e eficientes. 🚀
 
 ### 🛠️ Tecnologias & Skills
 <div align="center">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<br>
 
 ### 📫 Me encontre por aí
 <div align="center">
@@ -37,8 +35,6 @@ Apaixonado por criar soluções simples e eficientes. 🚀
   </a> 
 </div>
 
-<br>
-
 ### 📈 Minhas contribuições no GitHub
 <div align="center">
   <!-- Contributions Calendar -->
@@ -48,12 +44,3 @@ Apaixonado por criar soluções simples e eficientes. 🚀
   <br><br>
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeovaneMirandaOliveira&theme=tokyonight)
 </div>
-
-<br>
-
-### ✨ Extras & Divertido
-<div align="center">
-  <!-- Pequeno GIF ou efeito visual -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" height="150"/>
-</div>
-
