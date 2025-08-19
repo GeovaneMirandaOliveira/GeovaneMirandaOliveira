@@ -33,9 +33,4 @@ Trabalhando com **JavaScript, HTML e CSS** para criar soluções práticas e efi
   </a> 
 </div>
 
-### 📈 Minhas contribuições no GitHub
-<div align="center">
-  ![GitHub Contributions](https://ghchart.rshah.org/GeovaneMirandaOliveira)
-  <br><br>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeovaneMirandaOliveira&theme=tokyonight)
-</div>
+
