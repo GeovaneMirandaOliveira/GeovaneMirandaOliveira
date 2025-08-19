@@ -1,7 +1,8 @@
-## Bem-vindo(a) ao Perfil de Geovane Miranda Oliveira 😁
+## 👋 Olá! Bem-vindo(a) ao meu perfil — Geovane Miranda Oliveira
 
 ### 💻 Sobre mim
-Sou entusiasta de desenvolvimento web, aprendendo e aprimorando minhas habilidades em **JavaScript, HTML e CSS**.  
+Sou entusiasta de **desenvolvimento web**, aprendendo e aprimorando minhas habilidades em **JavaScript, HTML e CSS**.  
+Apaixonado por criar soluções simples e eficientes. 🚀  
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -11,11 +12,11 @@ Sou entusiasta de desenvolvimento web, aprendendo e aprimorando minhas habilidad
   </a>
 </div>
 
-### 🛠️ Tecnologias e Skills
+### 🛠️ Tecnologias & Skills
 <div align="center">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <br>
@@ -38,7 +39,21 @@ Sou entusiasta de desenvolvimento web, aprendendo e aprimorando minhas habilidad
 
 <br>
 
+### 📈 Minhas contribuições no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeovaneMirandaOliveira&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeovaneMirandaOliveira&theme=tokyonight" height="180em"/>
+  <!-- Contributions Calendar -->
+  ![GitHub Contributions](https://ghchart.rshah.org/GeovaneMirandaOliveira)
+
+  <!-- Streak Stats -->
+  <br><br>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeovaneMirandaOliveira&theme=tokyonight)
 </div>
+
+<br>
+
+### ✨ Extras & Divertido
+<div align="center">
+  <!-- Pequeno GIF ou efeito visual -->
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" height="150"/>
+</div>
+
